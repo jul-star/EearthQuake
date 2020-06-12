@@ -15,9 +15,10 @@ class FileParser:
         data = pd.read_csv(args.file)
 
     @staticmethod
-    def GetMagnitudeTime(data:pd.DataFrame):
+    def GetMagnitudeTime(data: pd.DataFrame) -> tuple:
         magnitude = data['mag']
         date = data['time']
+        return date, magnitude
 
     @staticmethod
     def Read4File(_file: str) -> pd.DataFrame:
