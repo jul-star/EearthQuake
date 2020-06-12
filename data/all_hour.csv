@@ -1,0 +1,14 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-06-11T15:27:42.880Z,33.9766667,-116.8666667,18.24,0.76,ml,19,69,0.07613,0.13,ci,ci39474760,2020-06-11T15:31:23.442Z,"6km N of Banning, CA",earthquake,0.36,0.95,0.233,20,automatic,ci,ci
+2020-06-11T15:24:25.280Z,33.5976667,-116.8041667,6.43,0.37,ml,22,74,0.03368,0.22,ci,ci39474744,2020-06-11T15:28:17.243Z,"13km WNW of Anza, CA",earthquake,0.41,0.73,0.177,9,automatic,ci,ci
+2020-06-11T15:23:13.880Z,35.5913333,-117.616,12.24,0.65,ml,13,89,0.1239,0.16,ci,ci39474736,2020-06-11T15:26:51.419Z,"6km ESE of Ridgecrest, CA",earthquake,0.37,1.04,0.159,9,automatic,ci,ci
+2020-06-11T15:16:20.940Z,19.2124996,-155.4219971,31.89,1.89,md,31,145,0.03398,0.14,hv,hv71551847,2020-06-11T15:19:55.680Z,"6 km E of P?hala, Hawaii",earthquake,0.55,0.92,0.09,6,automatic,hv,hv
+2020-06-11T15:06:03.205Z,69.1455,-147.7571,0,1.7,ml,,,,0.81,ak,ak0207htkd4k,2020-06-11T15:12:23.032Z,"125 km S of Prudhoe Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-06-11T15:03:23.640Z,38.136,-117.9985,0.2,0.8,ml,12,141.98,0.027,0.04,nn,nn00747129,2020-06-11T15:12:09.491Z,"29 km SSE of Mina, Nevada",earthquake,,0.5,,,automatic,nn,nn
+2020-06-11T15:02:43.786Z,59.7247,-153.0038,101.8,1.5,ml,,,,0.17,ak,ak0207htjldm,2020-06-11T15:09:00.661Z,"62 km E of Pedro Bay, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2020-06-11T14:58:51.830Z,68.4607,-148.1967,17.5,1.1,ml,,,,1.02,ak,ak0207hta6hr,2020-06-11T15:02:08.505Z,"115 km WNW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-06-11T14:57:03.400Z,19.4386673,-155.4793396,8.61,1.92,ml,40,55,0.04462,0.14,hv,hv71551822,2020-06-11T15:02:51.990Z,"25 km W of Volcano, Hawaii",earthquake,0.36,0.57,4.48,4,automatic,hv,hv
+2020-06-11T14:51:01.870Z,38.1778,-117.797,11.4,1.3,ml,16,62.8,0.053,0.1,nn,nn00747127,2020-06-11T15:05:12.790Z,"36 km SE of Mina, Nevada",earthquake,,1,,,automatic,nn,nn
+2020-06-11T14:49:09.400Z,35.8511658,-120.4055023,2.99,1.65,md,11,194,0.03058,0.04,nc,nc73407146,2020-06-11T15:14:03.443Z,"6km SSE of Parkfield, CA",earthquake,0.9,1.54,,1,automatic,nc,nc
+2020-06-11T14:48:49.430Z,38.8409996,-122.8225021,1.26,0.57,md,13,80,0.01042,0.02,nc,nc73407141,2020-06-11T15:04:03.378Z,"9km WNW of Cobb, CA",earthquake,0.26,0.64,,1,automatic,nc,nc
+2020-06-11T14:41:47.530Z,17.9351,-66.8023,9,2.98,md,15,192,0.0867,0.17,pr,pr2020163026,2020-06-11T14:55:08.210Z,"6 km SSE of Indios, Puerto Rico",earthquake,0.45,0.51,0.19,9,reviewed,pr,pr
